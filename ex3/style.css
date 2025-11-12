@@ -1,0 +1,24 @@
+.image1 { border: 3px solid red; }
+.image2 { border: 3px solid blue; }
+
+img {
+
+ width: 750px;
+ height: 400px;
+
+}
+
+.image1 {
+    border: 3px solid red;
+}
+
+.image2 {
+    border: 3px solid white;
+}
+
+.image3 {
+    border: 3px solid blue;
+}
+
+
+  
